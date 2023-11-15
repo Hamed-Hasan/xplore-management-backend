@@ -1,1 +1,1 @@
-# Xplore - Travel Agency Website / Backend - README
+# Xplore - Travel Agency Website - Backend
